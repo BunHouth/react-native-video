@@ -76,6 +76,8 @@ VideoPlayer.showVideoPlayer(url).then(() => {
   // onReachEnd
 });
 
+```
+
 
 ## [Original Source](https://github.com/ngager-group/react-native-exoplayer)
 
